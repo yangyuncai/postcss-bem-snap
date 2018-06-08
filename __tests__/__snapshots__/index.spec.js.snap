@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`postcss-bem-snap should complete standard workflow 1`] = `
+".vip {
+    text-align: center;
+    background-color: aquamarine
+}
+.vip--platinum {
+    background-color: plum
+}
+.vip--gold {
+    background-color: gold
+}
+.vip__header {
+    color: mediumpurple
+}
+.vip__header--lg {
+    font-size: 36px
+}
+.vip__header--md {
+    font-size: 24px
+}
+.vip__header--sm {
+    font-size: 16px
+}
+"
+`;

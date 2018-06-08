@@ -1,6 +1,6 @@
 {
-  "name": "postcss-bem-snap",
-  "version": "0.1.0",
+  "name": "@coco-platform/postcss-bem-snap",
+  "version": "0.2.0",
   "description": "PostCSS plugin provide postcss-bem feature, whose source code was removed from github.",
   "main": "lib/index.js",
   "engines": {

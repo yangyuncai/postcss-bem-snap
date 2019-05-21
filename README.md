@@ -1,7 +1,7 @@
 # postcss-bem-snap
 
 ![Build Status](https://img.shields.io/travis/coco-platform/postcss-bem-snap/master.svg?style=flat)
-[![Coverage Status](https://coveralls.io/repos/github/coco-platform/postcss-bem-snap/badge.svg?branch=master)](https://coveralls.io/github/coco-platform/postcss-bem-snap?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/coco-platform/postcss-bem-snap/badge.svg?branch=master)](https://coveralls.io/github/coco-platform/postcss-bem-snap?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/coco-platform/postcss-bem-snap.svg)](https://greenkeeper.io/)
 ![Package Dependency](https://david-dm.org/coco-platform/postcss-bem-snap.svg?style=flat)
 ![Package DevDependency](https://david-dm.org/coco-platform/postcss-bem-snap/dev-status.svg?style=flat)
 
